@@ -775,7 +775,7 @@ pre .javascript .function {
   position: relative;
   padding: 15px;
   margin-bottom: 20px;
-  border: 1px solid #eee;
+  border: 1px solid #ccc;
   border-left-width: 5px;
   border-radius: 3px;
 }
@@ -1608,7 +1608,7 @@ pre .javascript .function {
   display: table;
   margin-top: 15px;
   width: 100%;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #ccc;
 }
 .post-nav-divider {
   display: table-cell;
@@ -1719,8 +1719,8 @@ pre .javascript .function {
 }
 .sidebar a:hover,
 .sidebar span.exturl:hover {
-  color: #eee;
-  border-bottom-color: #eee;
+  color: #ccc;
+  border-bottom-color: #ccc;
 }
 @media (max-width: 991px) {
   .sidebar {
@@ -1839,7 +1839,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #7cb978;
+  background: #c4ffff;
 }
 .feed-link,
 .chat {
@@ -2844,7 +2844,7 @@ ul.breadcrumb li+li:last-child {
 .links-of-author-item a:hover,
 .links-of-author-item span.exturl:hover {
   border-radius: 4px;
-  background: #eee;
+  background: #ccc;
 }
 .links-of-author-item .fa {
   margin-right: 2px;
