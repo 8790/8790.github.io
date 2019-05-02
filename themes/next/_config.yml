@@ -724,19 +724,19 @@ likely:
 needmoreshare2:
   enable: false
   postbottom:
-    enable: false
+    enable: true
     options:
       iconStyle: box
       boxForm: horizontal
       position: bottomCenter
-      networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
+      networks: Weibo,Wechat,Douban,QQZone,Evernote,Twitter,Facebook
   float:
-    enable: false
+    enable: true
     options:
       iconStyle: box
-      boxForm: horizontal
+      boxForm: vertical
       position: middleRight
-      networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
+      networks: Weibo,Wechat,Douban,QQZone,Evernote,Twitter,Facebook
 
 
 # ---------------------------------------------------------------

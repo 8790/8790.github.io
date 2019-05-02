@@ -122,5 +122,8 @@
   {% include '_third-party/copy-code.swig' %}
   {% include '_third-party/chatra.swig' %}
   {% include '_third-party/tidio.swig' %}
+  
+  <!--动态标题-->
+  <script type="text/javascript" src="/js/dytitle.js"></script>
 </body>
 </html>
